@@ -1,17 +1,17 @@
-# Continuous Delivery as Code
+# CD as Code
 
 ## Tools
 
 ### CD systems
 
 * **Travis**.
-* **Circle CI**.
-* Jenkins *< 2.0*.
+* **Jenkins** *>= 2.0*.
+* Circle CI.
 
 Other applications:
 
 * Bamboo.
-* Jenkins *>= 2.0*.
+* Jenkins *< 2.0*.
 * Semaphore CI.
 
 ### Coverage
@@ -31,5 +31,3 @@ deliverable.
 In other platforms this can be done using containers.
 
 * **Elastic Beanstalk**.
-* Google App Engine.
-* OpenShift.
